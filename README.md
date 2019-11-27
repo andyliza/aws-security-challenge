@@ -10,6 +10,14 @@ and you learned the basic Security Best practices that go into an AWS Account.
 
 Document and fix this this security breaches and the CEO will reward you with an amazing prize :).
 
+## What do you need to do?
+
+Find the security gaps in the infrastructure deployed in the [Prerequisites Section](../00-Prerequisites-Lab/README.md)
+
+
+
+
+
 ## How to login to your lab environment via Event Engine
 
 Before starting the labs yo will receive a hash key to access your AWS environment. You will key in this hash key in Event Engine.
