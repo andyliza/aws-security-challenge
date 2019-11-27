@@ -12,7 +12,7 @@ Document and fix this this security breaches and the CEO will reward you with an
 
 ## What do you need to do?
 
-Find the security gaps in the infrastructure deployed in the [Prerequisites Section](../00-Prerequisites-Lab/README.md)
+Find the security gaps in the infrastructure deployed in the [Prerequisites Section](./00-Prerequisites-Lab/README.md)
 
 
 
