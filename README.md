@@ -1,9 +1,7 @@
 # AWS Security Challenge
 ![main image](images/ws-image.png)
 
-Security Challenge for AWS Immersion Day
-
-
+##Security Challenge for AWS Immersion Day
 
 You are the CISO of the company Unicorn Travels and you have been tasked by the CEO to secure your e-commerce application.
 
@@ -15,9 +13,6 @@ Document and fix this this security breaches and the CEO will reward you with an
 ## What do you need to do?
 
 Find the security gaps in the infrastructure deployed in the [Prerequisites Section](./00-Prerequisites-Lab/README.md)
-
-
-
 
 
 ## How to login to your lab environment via Event Engine
