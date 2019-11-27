@@ -14,6 +14,11 @@ Document and fix this this security breaches and the CEO will reward you with an
 
 Find the security gaps in the infrastructure deployed in the [Prerequisites Section](./00-Prerequisites-Lab/README.md)
 
+The security gaps are related to:
+- architecture
+- configurations
+- authentication
+
 
 ## How to login to your lab environment via Event Engine
 
