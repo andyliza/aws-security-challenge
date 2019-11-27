@@ -1,4 +1,4 @@
-# aws-security-challenge
+# AWS Security Challenge
 Security Challenge for AWS Immersion Day
 
 
