@@ -54,4 +54,4 @@ aws cloudformation describe-stacks --stack-name bkksecuritychallenge2019 \
 
  **:heavy_exclamation_mark: DO NOT move past this point until you see CREATE_COMPLETE as the status for your CloudFormation stack**
 
-[Go back](../)
+[Go back](/../../)
