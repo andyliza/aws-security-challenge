@@ -19,6 +19,7 @@ connection.
 
 ![images](images/7324683f50d7dbe301fa0c476d84153a.png)
 
+
 ### Create a Cloud9 environment
 
 1) Go to the Cloud9 console and press *Create environment*.

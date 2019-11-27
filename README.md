@@ -1,7 +1,7 @@
 # AWS Security Challenge
 ![main image](images/ws-image.png)
 
-##Security Challenge for AWS Immersion Day
+## Security Challenge for AWS Immersion Day
 
 You are the CISO of the company Unicorn Travels and you have been tasked by the CEO to secure your e-commerce application.
 
