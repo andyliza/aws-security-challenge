@@ -1,4 +1,6 @@
 # AWS Security Challenge
+![main image](images/ws-image.png)
+
 Security Challenge for AWS Immersion Day
 
 
