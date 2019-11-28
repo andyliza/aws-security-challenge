@@ -68,7 +68,7 @@ aws cloudformation create-stack --template-body file://./aws-security-challenge/
 
 ```
 aws cloudformation describe-stacks --stack-name bkksecuritychallenge2019 \
-                                   --query 'Stacks[0].StackStatus'
+                                   --query 'Stacks[0].StackStatus' \
                                    --output text
 ```
 
