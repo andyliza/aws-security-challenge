@@ -824,7 +824,6 @@
       "Type" : "AWS::S3::Bucket",
       "Properties" : {
           "AccessControl" : "PublicReadWrite",
-          "BucketName" : "bkksecuritychallenge2019",
           "PublicAccessBlockConfiguration" :
                       {
                         "BlockPublicAcls" : "false",
